@@ -9,7 +9,7 @@ const TermsAndConditionsPage = () => {
             Terms &amp; Conditions
           </h1>
           <p className="text-[#494848] text-sm sm:text-base">
-            Please read these terms carefully before using the Lucky's Wellness website and
+            Please read these terms carefully before using the Lucky&apos;s Wellness website and
             related services.
           </p>
         </div>
@@ -20,9 +20,9 @@ const TermsAndConditionsPage = () => {
           </h2>
           <p>
             These Terms and Conditions govern your use of the website and online
-            services offered under the name <strong>Lucky's Wellness</strong> (referred to as
-            &quot;Lucky's Wellness,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). The
-            site you are visiting is the Lucky's Wellness website (the &quot;Service&quot;).
+            services offered under the name <strong>Lucky&apos;s Wellness</strong> (referred to as
+            &quot;Lucky&apos;s Wellness,&quot; &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). The
+            site you are visiting is the Lucky&apos;s Wellness website (the &quot;Service&quot;).
           </p>
 
           <h2 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
@@ -61,7 +61,7 @@ const TermsAndConditionsPage = () => {
           </h2>
           <p>
             The Service and its content (including text, graphics, logos, images, and
-            software) are owned by Lucky's Wellness or our licensors and are protected by
+            software) are owned by Lucky&apos;s Wellness or our licensors and are protected by
             applicable intellectual property laws. We grant you a limited, personal,
             non-exclusive, non-transferable right to access and use the Service for
             your own lawful purposes. You may not copy, modify, distribute, sell, or
@@ -74,7 +74,7 @@ const TermsAndConditionsPage = () => {
           </h2>
           <p>
             If you post or submit content (for example, comments, feedback, or
-            uploads), you retain ownership of your content, but you grant Lucky's Wellness a
+            uploads), you retain ownership of your content, but you grant Lucky&apos;s Wellness a
             worldwide, non-exclusive license to use, host, store, reproduce, and display
             that content as needed to run and improve the Service. You represent that
             you have the right to grant this license and that your content does not
@@ -118,7 +118,7 @@ const TermsAndConditionsPage = () => {
             10. Limitation of liability
           </h2>
           <p>
-            To the fullest extent permitted by law, Lucky's Wellness and its team will not
+            To the fullest extent permitted by law, Lucky&apos;s Wellness and its team will not
             be liable for any indirect, incidental, special, consequential, or
             punitive damages, or for loss of profits, data, or goodwill, arising from
             your use of the Service. Our total liability for any claim related to the
@@ -133,7 +133,7 @@ const TermsAndConditionsPage = () => {
             11. Indemnity
           </h2>
           <p>
-            You agree to defend and indemnify Lucky's Wellness against claims, damages, and
+            You agree to defend and indemnify Lucky&apos;s Wellness against claims, damages, and
             expenses (including reasonable legal fees) arising from your use of the
             Service, your content, or your violation of these terms, except to the
             extent caused by our own misconduct.
@@ -144,7 +144,7 @@ const TermsAndConditionsPage = () => {
           </h2>
           <p>
             These terms are governed by the laws that apply in the place where
-            Lucky's Wellness operates, without regard to conflict-of-law rules. Courts in
+            Lucky&apos;s Wellness operates, without regard to conflict-of-law rules. Courts in
             that jurisdiction may have exclusive venue for disputes, unless required
             otherwise by applicable consumer protection law.
           </p>
@@ -154,7 +154,7 @@ const TermsAndConditionsPage = () => {
           </h2>
           <p>
             For questions about these Terms and Conditions, contact us through the
-            contact options provided on the Lucky's Wellness website (for example, details in
+            contact options provided on the Lucky&apos;s Wellness website (for example, details in
             the site footer, when available).
           </p>
         </div>

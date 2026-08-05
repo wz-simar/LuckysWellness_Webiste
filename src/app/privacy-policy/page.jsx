@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
 
         <div className="space-y-8 text-[#494848] leading-relaxed text-sm sm:text-base">
           <p>
-            This Privacy Policy explains how <strong>Lucky's Wellness</strong> (referred to as
+            This Privacy Policy explains how <strong>Lucky&apos;s Wellness</strong> (referred to as
             &quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, stores, and
             shares information when you use our website and related online services
             (the &quot;Service&quot;). By using the Service, you agree to this policy.
@@ -52,7 +52,7 @@ const PrivacyPolicy = () => {
             <li>Respond to your requests, questions, and feedback.</li>
             <li>
               Send you service-related messages and, where allowed by law, information
-              about Lucky's Wellness that may interest you. You can opt out of marketing
+              about Lucky&apos;s Wellness that may interest you. You can opt out of marketing
               communications where that option is offered.
             </li>
             <li>Monitor and analyze use of the Service to improve performance and user experience.</li>
@@ -66,7 +66,7 @@ const PrivacyPolicy = () => {
           <p>
             If local law requires a legal basis, we rely on: your consent (where
             asked), performance of a contract with you, our legitimate interests in
-            running and improving Lucky's Wellness (balanced against your rights), and
+            running and improving Lucky&apos;s Wellness (balanced against your rights), and
             compliance with law.
           </p>
 
@@ -133,7 +133,7 @@ const PrivacyPolicy = () => {
             delete, or restrict processing of your personal data, or to object to
             certain processing. You may also have the right to lodge a complaint with a
             data protection authority. To exercise these rights, contact us using the
-            details on the Lucky's Wellness website. We will respond in line with applicable
+            details on the Lucky&apos;s Wellness website. We will respond in line with applicable
             law.
           </p>
 
@@ -179,7 +179,7 @@ const PrivacyPolicy = () => {
           </h2>
           <p>
             If you have questions about this Privacy Policy or our practices, contact
-            us through the contact options provided on the Lucky's Wellness website (for
+            us through the contact options provided on the Lucky&apos;s Wellness website (for
             example, details in the site footer, when available).
           </p>
 
