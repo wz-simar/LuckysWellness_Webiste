@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.lucky",
+      "sha256_cert_fingerprints": [
+        "BE:35:72:54:16:73:3C:82:2D:C4:A6:24:8C:ED:97:D8:A8:EE:87:10:5B:31:C7:5B:C7:8C:C9:39:83:15:EC:C6"
+      ]
+    }
+  }
+]
